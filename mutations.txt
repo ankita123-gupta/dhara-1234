@@ -1,0 +1,18 @@
+ 
+
+var numArray =[];
+for(let i = 0; i<3. i++){
+return numArray.push(i);
+}
+
+console.log(numArray);[0,1,2]
+console.log(i) ;2
+
+var numArray =[];
+var i;
+for(i = 0; i<3. i++){
+return numArray.push(i);
+}
+
+console.log(numArray);[0,1,2]
+console.log(i) ;3
